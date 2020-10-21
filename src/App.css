@@ -1,0 +1,23 @@
+.App{
+  display: flex;
+  flex-direction: column;
+}
+
+.header{
+  height: 20vh;
+  width: 100%;
+  display: flex;
+  background-color: #FDD023;
+}
+
+.logo{
+  height: 90%;
+}
+
+.footer{
+  height: 10vh;
+  background-color: #FDD023;
+  text-align: center;
+  height: 100%;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
